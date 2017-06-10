@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","The error type."]],"mod":[["lexer","A module for turning raw gcode into tokens to be processed by the parser."],["low_level","The first stage of parsing which turns tokens into a basic gcode representation."],["parser","The main parsing module for this crate."]],"type":[["Result","An alias for the `Result` type."]]});
